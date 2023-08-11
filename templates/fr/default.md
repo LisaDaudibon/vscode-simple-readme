@@ -40,7 +40,7 @@
 
 ## :dart: A propos ##
 
-Describe your project
+Décris ton projet
 
 ## :sparkles: Fonctionnalités supplémentaires ##
 
@@ -76,7 +76,7 @@ $ yarn
 ou
 $ npm install
 
-# Run the project
+# Lancer le projet
 $ yarn start
 ou
 $ npm run start
